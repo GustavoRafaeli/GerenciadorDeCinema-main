@@ -1,0 +1,12 @@
+@import url("bootstrap/dist/css/bootstrap.min.css");
+
+body{
+  background: #580101;
+  background: -webkit-linear-gradient(to right, #000000, #580101);
+  background: linear-gradient(to right, #000000, #580101);
+}
+
+
+
+
+
